@@ -8,15 +8,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maisytoptal/myblog.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/maisytoptal/myblog/issues"
-  },
-  "homepage": "https://github.com/maisytoptal/myblog#readme",
   "dependencies": {
     "@okta/oidc-middleware": "^1.0.2",
     "body-parser": "^1.18.3",

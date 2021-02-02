@@ -8,7 +8,7 @@ const { ExpressOIDC } = require('@okta/oidc-middleware');
 const Sequelize = require('sequelize');
 const epilogue = require('epilogue'), ForbiddenError = epilogue.Errors.ForbiddenError;
 const app = express();
-const PORT = process.env.PORT || 3000;
+const port = process.env.PORT || 3000;
 
 
 // session support is required to use ExpressOIDC
