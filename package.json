@@ -26,6 +26,7 @@
     "express": "^4.16.4",
     "express-session": "^1.15.6",
     "git": "^0.1.5",
+    "heroku": "^7.47.11",
     "nodemon": "^1.18.9",
     "sequelize": "^4.42.0",
     "sqlite3": "^4.2.0"
